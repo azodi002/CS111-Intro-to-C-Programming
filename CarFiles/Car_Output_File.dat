@@ -1,0 +1,14 @@
+Model      Miles driven                  Gallons of gas used                                     MPG
+Camry     250                                             19                                   13.16
+
+F150      525.00                                       38.00                                   13.82
+
+Mustang   123.00                                        6.00                                   20.50
+
+Altima    1322.00                                      86.00                                   15.37
+
+Neon      235.00                                       14.00                                   16.79
+
+Total Miles Driven: 2455.00 miles
+Total Gallons of Gas Used: 163.00 gallons
+Average MPG: 15.06 miles per gallon 
